@@ -1,11 +1,11 @@
 ![GitHub](https://img.shields.io/github/license/jornatf/weather-react-app) ![GitHub followers](https://img.shields.io/github/followers/jornatf) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jornatf/weather-react-app)
-# React Weather Station App
+# React Weather App
 
 ![Screenshot](public/screenshot.png)
 
 Get weather in realtime !
 
-This is my first React App that I developed to learn this framework.
+(This is my first React App that I developed to learn this framework)
 
 ## Before starting
 
