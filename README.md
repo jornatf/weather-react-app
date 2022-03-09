@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/jornatf/weather-react-app) ![GitHub followers](https://img.shields.io/github/followers/jornatf) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jornatf/weather-react-app)
-# React Weather App
+# Weather React App
 
 ![Screenshot](public/screenshot.png)
 
