@@ -1,4 +1,4 @@
-![MIT Licence](https://shields.io/badge/license-MIT-blue)
+![GitHub](https://img.shields.io/github/license/jornatf/weather-react-app) ![GitHub followers](https://img.shields.io/github/followers/jornatf) ![GitHub repo size](https://img.shields.io/github/repo-size/jornatf/weather-react-app)
 # React Weather Station App
 
 ![Screenshot](public/screenshot.png)
