@@ -1,7 +1,7 @@
 const urlBuilder = (query) => {
     const baseUrl = 'https://api.weatherapi.com/v1/current.json'
     const params = {
-        key: '', // your api key here: http://weatherapi.com
+        key: process.env.API_KEY, // your api key here: http://weatherapi.com
         aqi: 'no',
         q: query
     }
