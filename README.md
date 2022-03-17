@@ -5,13 +5,15 @@
 
 Get weather in realtime !
 
+Check ![demo here](https://weather-react-app-demo.vercel.app).
+
 (This is my first React App that I developed to learn this framework)
 
 ## Before starting
 
 This app uses a specific [weather API](https://weatherapi.com) where you need to generate an API Key.
 
-After, you have to edit ```utilities > url-builder.js``` file and enter the generated key.
+After, you have to edit ```utilities > url-builder.js``` file and enter the generated key in your `.env` file like this: `REACT_APP_API_KEY="1234"`.
 
 ## How it works ?
 
