@@ -2,7 +2,7 @@ import './weather-card.css';
 
 const WeatherCard = props => {
     return (
-        <div>
+        <div style="padding: 0 20px">
             <div className="weather-card">
                 <div>
                     <div className="weather-card-temperature">{ props.temperature }°C</div>
